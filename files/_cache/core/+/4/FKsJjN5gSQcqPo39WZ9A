@@ -1,0 +1,37 @@
+1660317563
+a425660fa9d06562c78691d5158728b03ee37b1b
+a:1:{s:54:"bn_count_Supplier_36ff9011-e4cf-4d89-b9ab-346b9857d734";s:1071:"      <style>
+         #bn_1504288265 {
+            background-color: #c9c9c9;
+            color: #636363;
+         }
+
+         #bn_1504288265:hover {
+            background-color: #a3a3a3;
+            border: 1px solid #7d7d7d;
+         }
+
+         .theme-dark #bn_1504288265 {
+            background-color: #636363;
+            color: #c9c9c9;
+         }
+
+         .theme-dark #bn_1504288265:hover {
+            background-color: #a3a3a3;
+            color: #636363;
+            border: 1px solid #7d7d7d;
+         }
+      </style>
+      <a href='/front/supplier.php?reset=reset'
+         id="bn_1504288265"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Fornecedor">Fornecedor</div>
+         <i class="main-icon fas fa-dolly"></i>
+      </a>";}

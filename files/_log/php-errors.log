@@ -1,0 +1,217 @@
+[2022-08-10 15:20:41] glpiphplog.WARNING: Test logger  
+[2022-08-10 15:20:49] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to a member function getTime() on null in /var/www/src/Html.php at line 772
+  Backtrace :
+  src/Html.php:1922                                  Html::displayDebugInfos()
+  src/Html.php:2142                                  Html::footer()
+  src/Html.php:935                                   Html::nullFooter()
+  src/Toolbox.php:2442                               Html::displayErrorAndDie()
+  install/install.php:544                            Toolbox::checkValidReferer()
+  
+[2022-08-10 15:20:54] glpiphplog.DEBUG: Html::compileScss() in /var/www/src/Html.php line 6820
+Compile css/palettes/auror.scss  {"user":"@e915653474f3"} 
+[2022-08-15 17:23:32] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "glpiactiveentities" in /var/www/src/Dashboard/Dashboard.php at line 481
+  Backtrace :
+  src/Dashboard/Dashboard.php:155                    Glpi\Dashboard\Dashboard::checkRights()
+  src/Dashboard/Dashboard.php:391                    Glpi\Dashboard\Dashboard->canViewCurrent()
+  src/Dashboard/Grid.php:108                         Glpi\Dashboard\Dashboard::getAll()
+  src/Dashboard/Grid.php:205                         Glpi\Dashboard\Grid::loadAllDashboards()
+  src/Central.php:75                                 Glpi\Dashboard\Grid::canViewOneDashboard()
+  src/CommonGLPI.php:364                             Central->getTabNameForItem()
+  src/Central.php:57                                 CommonGLPI->addStandardTab()
+  src/CommonGLPI.php:314                             Central->defineTabs()
+  src/Toolbox.php:3404                               CommonGLPI->defineAllTabs()
+  ajax/updatecurrenttab.php:46                       Toolbox::getAvailablesTabs()
+  
+[2022-08-15 17:23:32] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: array_intersect(): Argument #2 must be of type array, null given in /var/www/src/Dashboard/Dashboard.php at line 481
+  Backtrace :
+  src/Dashboard/Dashboard.php:481                    array_intersect()
+  src/Dashboard/Dashboard.php:155                    Glpi\Dashboard\Dashboard::checkRights()
+  src/Dashboard/Dashboard.php:391                    Glpi\Dashboard\Dashboard->canViewCurrent()
+  src/Dashboard/Grid.php:108                         Glpi\Dashboard\Dashboard::getAll()
+  src/Dashboard/Grid.php:205                         Glpi\Dashboard\Grid::loadAllDashboards()
+  src/Central.php:75                                 Glpi\Dashboard\Grid::canViewOneDashboard()
+  src/CommonGLPI.php:364                             Central->getTabNameForItem()
+  src/Central.php:57                                 CommonGLPI->addStandardTab()
+  src/CommonGLPI.php:314                             Central->defineTabs()
+  src/Toolbox.php:3404                               CommonGLPI->defineAllTabs()
+  ajax/updatecurrenttab.php:46                       Toolbox::getAvailablesTabs()
+  
+[2022-08-15 19:55:55] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Glpi\Application\View\Extension\ItemtypeExtension::getItemName(): Argument #2 ($id) must be of type ?int, string given, called in /var/www/files/_cache/templates/01/019b06fcfcca0014c73426612051b87a838bcc15600848b9677615dc6209f923.php on line 88 in /var/www/src/Application/View/Extension/ItemtypeExtension.php at line 180
+  Backtrace :
+  ...2051b87a838bcc15600848b9677615dc6209f923.php:88 Glpi\Application\View\Extension\ItemtypeExtension->getItemName()
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_55a27529c987968410f7401b8c1bb220e3f2a2fca67eb5004b686e9592638100->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/Template.php:379              Twig\Template->display()
+  vendor/twig/twig/src/TemplateWrapper.php:40        Twig\Template->render()
+  .../twig/twig/src/Extension/CoreExtension.php:1323 Twig\TemplateWrapper->render()
+  ...75f78a332a26eaebd205e198d6dca5cdd608d329.php:46 twig_include()
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_c92ccfb613198a04c0c8921eb59ab0c79852ec20b196e13a4474af9b982c73ea->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/Template.php:379              Twig\Template->display()
+  vendor/twig/twig/src/TemplateWrapper.php:40        Twig\Template->render()
+  src/Application/View/TemplateRenderer.php:161      Twig\TemplateWrapper->render()
+  src/CommonDropdown.php:365                         Glpi\Application\View\TemplateRenderer->render()
+  front/dropdown.common.form.php:167                 CommonDropdown->showForm()
+  front/entity.form.php:52                           include()
+  
+[2022-08-18 14:15:31] glpiphplog.WARNING: Test logger  
+[2022-08-18 14:19:05] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Glpi\Marketplace\View::getPaginationHtml(): Argument #2 ($total) must be of type int, string given, called in /var/www/ajax/marketplace.php on line 116 in /var/www/src/Marketplace/View.php at line 959
+  Backtrace :
+  ajax/marketplace.php:116                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2022-08-18 14:53:23] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: Glpi\Marketplace\View::getPaginationHtml(): Argument #2 ($total) must be of type int, string given, called in /var/www/ajax/marketplace.php on line 116 in /var/www/src/Marketplace/View.php at line 959
+  Backtrace :
+  ajax/marketplace.php:116                           Glpi\Marketplace\View::getPaginationHtml()
+  
+[2022-08-18 19:09:37] glpiphplog.CRITICAL:   *** Uncaught Exception ScssPhp\ScssPhp\Exception\ParserException: parse error: failed at `$logo-light: ../pics/logos/logo-unisuam.png;` /var/www/css/palettes/../includes/_logos.scss on line 34, at column 1 in /var/www/vendor/scssphp/scssphp/src/Parser.php at line 225
+  Backtrace :
+  vendor/scssphp/scssphp/src/Parser.php:286          ScssPhp\ScssPhp\Parser->parseError()
+  vendor/scssphp/scssphp/src/Compiler.php:5739       ScssPhp\ScssPhp\Parser->parse()
+  vendor/scssphp/scssphp/src/Compiler.php:2703       ScssPhp\ScssPhp\Compiler->importFile()
+  vendor/scssphp/scssphp/src/Compiler.php:2915       ScssPhp\ScssPhp\Compiler->compileImport()
+  vendor/scssphp/scssphp/src/Compiler.php:2378       ScssPhp\ScssPhp\Compiler->compileChild()
+  vendor/scssphp/scssphp/src/Compiler.php:5747       ScssPhp\ScssPhp\Compiler->compileChildrenNoReturn()
+  vendor/scssphp/scssphp/src/Compiler.php:2703       ScssPhp\ScssPhp\Compiler->importFile()
+  vendor/scssphp/scssphp/src/Compiler.php:2915       ScssPhp\ScssPhp\Compiler->compileImport()
+  vendor/scssphp/scssphp/src/Compiler.php:2378       ScssPhp\ScssPhp\Compiler->compileChild()
+  vendor/scssphp/scssphp/src/Compiler.php:5747       ScssPhp\ScssPhp\Compiler->compileChildrenNoReturn()
+  vendor/scssphp/scssphp/src/Compiler.php:2703       ScssPhp\ScssPhp\Compiler->importFile()
+  vendor/scssphp/scssphp/src/Compiler.php:2915       ScssPhp\ScssPhp\Compiler->compileImport()
+  vendor/scssphp/scssphp/src/Compiler.php:2378       ScssPhp\ScssPhp\Compiler->compileChild()
+  vendor/scssphp/scssphp/src/Compiler.php:744        ScssPhp\ScssPhp\Compiler->compileChildrenNoReturn()
+  vendor/scssphp/scssphp/src/Compiler.php:522        ScssPhp\ScssPhp\Compiler->compileRoot()
+  src/Html.php:6821                                  ScssPhp\ScssPhp\Compiler->compileString()
+  front/css.php:59                                   Html::compileScss()
+  
+[2022-08-19 18:06:28] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "id" in /var/www/src/CommonDBTM.php at line 1925
+  Backtrace :
+  marketplace/formcreator/hook.php:733               CommonDBTM->delete()
+  src/Plugin.php:1468                                plugin_formcreator_hook_update_profile()
+  src/CommonDBTM.php:1662                            Plugin::doHook()
+  front/profile.form.php:65                          CommonDBTM->update()
+  
+[2022-08-19 18:11:00] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "id" in /var/www/src/CommonDBTM.php at line 1925
+  Backtrace :
+  marketplace/formcreator/hook.php:733               CommonDBTM->delete()
+  src/Plugin.php:1468                                plugin_formcreator_hook_update_profile()
+  src/CommonDBTM.php:1662                            Plugin::doHook()
+  front/profile.form.php:65                          CommonDBTM->update()
+  
+[2022-08-19 18:18:16] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "id" in /var/www/src/CommonDBTM.php at line 1925
+  Backtrace :
+  marketplace/formcreator/hook.php:733               CommonDBTM->delete()
+  src/Plugin.php:1468                                plugin_formcreator_hook_update_profile()
+  src/CommonDBTM.php:1662                            Plugin::doHook()
+  front/profile.form.php:65                          CommonDBTM->update()
+  
+[2022-08-19 18:22:45] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "id" in /var/www/src/CommonDBTM.php at line 1925
+  Backtrace :
+  marketplace/formcreator/hook.php:733               CommonDBTM->delete()
+  src/Plugin.php:1468                                plugin_formcreator_hook_update_profile()
+  src/CommonDBTM.php:1662                            Plugin::doHook()
+  front/profile.form.php:65                          CommonDBTM->update()
+  
+[2022-08-19 18:26:28] glpiphplog.WARNING:   *** PHP Warning (2): Undefined array key "id" in /var/www/src/CommonDBTM.php at line 1925
+  Backtrace :
+  marketplace/formcreator/hook.php:733               CommonDBTM->delete()
+  src/Plugin.php:1468                                plugin_formcreator_hook_update_profile()
+  src/CommonDBTM.php:1662                            Plugin::doHook()
+  front/profile.form.php:65                          CommonDBTM->update()
+  
+[2022-08-19 19:32:19] glpiphplog.CRITICAL:   *** Twig Error (Twig\Error\SyntaxError): "Unknown "asset" function. Did you mean "asset_path"?" in template "/var/www/templates/layout/page_card_notlogged.html.twig" at line 51
+  Backtrace :
+  vendor/twig/twig/src/ExpressionParser.php:457      Twig\ExpressionParser->getFunctionNodeClass()
+  vendor/twig/twig/src/ExpressionParser.php:235      Twig\ExpressionParser->getFunctionNode()
+  vendor/twig/twig/src/ExpressionParser.php:175      Twig\ExpressionParser->parsePrimaryExpression()
+  vendor/twig/twig/src/ExpressionParser.php:70       Twig\ExpressionParser->getPrimary()
+  vendor/twig/twig/src/Parser.php:127                Twig\ExpressionParser->parseExpression()
+  vendor/twig/twig/src/Parser.php:83                 Twig\Parser->subparse()
+  vendor/twig/twig/src/Environment.php:488           Twig\Parser->parse()
+  vendor/twig/twig/src/Environment.php:516           Twig\Environment->parse()
+  vendor/twig/twig/src/Environment.php:348           Twig\Environment->compileSource()
+  vendor/twig/twig/src/Template.php:322              Twig\Environment->loadTemplate()
+  ...5ac5ef6788de9f399fd75fe78435f843338fb86f.php:43 Twig\Template->loadTemplate()
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_9f91607569241f6e7ac0c645ee0b439ddd2d84c458142b2a62bff0892b3a467a->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/TemplateWrapper.php:47        Twig\Template->display()
+  src/Application/View/TemplateRenderer.php:179      Twig\TemplateWrapper->display()
+  index.php:159                                      Glpi\Application\View\TemplateRenderer->display()
+  
+[2022-08-19 19:32:36] glpiphplog.CRITICAL:   *** Twig Error (Twig\Error\SyntaxError): "Unknown "asset" function. Did you mean "asset_path"?" in template "/var/www/templates/layout/page_card_notlogged.html.twig" at line 51
+  Backtrace :
+  vendor/twig/twig/src/ExpressionParser.php:457      Twig\ExpressionParser->getFunctionNodeClass()
+  vendor/twig/twig/src/ExpressionParser.php:235      Twig\ExpressionParser->getFunctionNode()
+  vendor/twig/twig/src/ExpressionParser.php:175      Twig\ExpressionParser->parsePrimaryExpression()
+  vendor/twig/twig/src/ExpressionParser.php:70       Twig\ExpressionParser->getPrimary()
+  vendor/twig/twig/src/Parser.php:127                Twig\ExpressionParser->parseExpression()
+  vendor/twig/twig/src/Parser.php:83                 Twig\Parser->subparse()
+  vendor/twig/twig/src/Environment.php:488           Twig\Parser->parse()
+  vendor/twig/twig/src/Environment.php:516           Twig\Environment->parse()
+  vendor/twig/twig/src/Environment.php:348           Twig\Environment->compileSource()
+  vendor/twig/twig/src/Template.php:322              Twig\Environment->loadTemplate()
+  ...5ac5ef6788de9f399fd75fe78435f843338fb86f.php:43 Twig\Template->loadTemplate()
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_9f91607569241f6e7ac0c645ee0b439ddd2d84c458142b2a62bff0892b3a467a->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/TemplateWrapper.php:47        Twig\Template->display()
+  src/Application/View/TemplateRenderer.php:179      Twig\TemplateWrapper->display()
+  index.php:159                                      Glpi\Application\View\TemplateRenderer->display()
+  
+[2022-08-19 19:36:03] glpiphplog.CRITICAL:   *** Twig Error (Twig\Error\SyntaxError): "Unexpected character "'"." in template "/var/www/templates/layout/page_card_notlogged.html.twig" at line 60
+  Backtrace :
+  vendor/twig/twig/src/Lexer.php:290                 Twig\Lexer->lexExpression()
+  vendor/twig/twig/src/Lexer.php:184                 Twig\Lexer->lexVar()
+  vendor/twig/twig/src/Environment.php:469           Twig\Lexer->tokenize()
+  vendor/twig/twig/src/Environment.php:516           Twig\Environment->tokenize()
+  vendor/twig/twig/src/Environment.php:348           Twig\Environment->compileSource()
+  vendor/twig/twig/src/Template.php:322              Twig\Environment->loadTemplate()
+  ...5ac5ef6788de9f399fd75fe78435f843338fb86f.php:43 Twig\Template->loadTemplate()
+  vendor/twig/twig/src/Template.php:394              __TwigTemplate_9f91607569241f6e7ac0c645ee0b439ddd2d84c458142b2a62bff0892b3a467a->doDisplay()
+  vendor/twig/twig/src/Template.php:367              Twig\Template->displayWithErrorHandling()
+  vendor/twig/twig/src/TemplateWrapper.php:47        Twig\Template->display()
+  src/Application/View/TemplateRenderer.php:179      Twig\TemplateWrapper->display()
+  index.php:159                                      Glpi\Application\View\TemplateRenderer->display()
+  
+[2022-08-22 19:48:53] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to undefined method Html::getCopyrightMessage() in /var/www/index.php at line 158  
+[2022-08-22 19:49:03] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to undefined method Html::getCopyrightMessage() in /var/www/index.php at line 158  
+[2022-08-22 19:49:13] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected token "*" in /var/www/src/Html.php at line 6203
+  Backtrace :
+  src/Config.php:2532                                glpi_autoload()
+  inc/config.php:66                                  Config::detectRootDoc()
+  inc/includes.php:53                                include_once()
+  index.php:88                                       include()
+  
+[2022-08-22 19:49:15] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected token "*" in /var/www/src/Html.php at line 6203
+  Backtrace :
+  src/Config.php:2532                                glpi_autoload()
+  inc/config.php:66                                  Config::detectRootDoc()
+  inc/includes.php:53                                include_once()
+  index.php:88                                       include()
+  
+[2022-08-22 19:49:18] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected token "*" in /var/www/src/Html.php at line 6203
+  Backtrace :
+  src/Config.php:2532                                glpi_autoload()
+  inc/config.php:66                                  Config::detectRootDoc()
+  inc/includes.php:53                                include_once()
+  index.php:88                                       include()
+  
+[2022-08-22 19:49:21] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected token "*" in /var/www/src/Html.php at line 6203
+  Backtrace :
+  src/Config.php:2532                                glpi_autoload()
+  inc/config.php:66                                  Config::detectRootDoc()
+  inc/includes.php:53                                include_once()
+  index.php:88                                       include()
+  
+[2022-08-22 19:49:21] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected token "*" in /var/www/src/Html.php at line 6203
+  Backtrace :
+  src/Config.php:2532                                glpi_autoload()
+  inc/config.php:66                                  Config::detectRootDoc()
+  inc/includes.php:53                                include_once()
+  index.php:88                                       include()
+  
+[2022-08-22 19:49:22] glpiphplog.CRITICAL:   *** Uncaught Exception ParseError: syntax error, unexpected token "*" in /var/www/src/Html.php at line 6203
+  Backtrace :
+  src/Config.php:2532                                glpi_autoload()
+  inc/config.php:66                                  Config::detectRootDoc()
+  inc/includes.php:53                                include_once()
+  index.php:88                                       include()
+  

@@ -1,0 +1,220 @@
+2022-08-10 15:26:13 [@e915653474f3]
+[login] 3: Login falhou para  no IP 172.17.0.1
+2022-08-10 15:26:23 [@e915653474f3]
+[login] 3: Login falhou para root no IP 172.17.0.1
+2022-08-10 15:26:41 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-11 14:03:20 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-12 13:17:25 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-12 15:01:43 [@e915653474f3]
+[login] 3: user1 fez login no IP 172.17.0.1
+2022-08-12 15:03:38 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-12 15:11:04 [@e915653474f3]
+[login] 3: user1 fez login no IP 172.17.0.1
+2022-08-12 15:11:18 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-12 15:13:10 [@e915653474f3]
+[login] 3: user1 fez login no IP 172.17.0.1
+2022-08-12 15:18:32 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 13:27:50 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 14:02:45 [@e915653474f3]
+[login] 3: user1 fez login no IP 172.17.0.1
+2022-08-15 14:03:52 [@e915653474f3]
+[login] 3: user1 fez login no IP 172.17.0.1
+2022-08-15 14:06:25 [@e915653474f3]
+[login] 3: brunon1 fez login no IP 172.17.0.1
+2022-08-15 14:07:30 [@e915653474f3]
+[login] 3: brunon2 fez login no IP 172.17.0.1
+2022-08-15 14:08:04 [@e915653474f3]
+[login] 3: brunon3 fez login no IP 172.17.0.1
+2022-08-15 14:09:26 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 14:41:58 [@e915653474f3]
+[login] 3: Login falhou para usar1 no IP 172.17.0.1
+2022-08-15 14:42:11 [@e915653474f3]
+[login] 3: Login falhou para usar1 no IP 172.17.0.1
+2022-08-15 14:42:19 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 14:43:26 [@e915653474f3]
+[login] 3: Login falhou para userteste no IP 172.17.0.1
+2022-08-15 14:43:34 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 14:44:35 [@e915653474f3]
+[login] 3: brunochamado fez login no IP 172.17.0.1
+2022-08-15 14:45:53 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 14:48:52 [@e915653474f3]
+[login] 3: brunochamado fez login no IP 172.17.0.1
+2022-08-15 14:50:32 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 15:01:52 [@e915653474f3]
+[login] 3: brunochamado fez login no IP 172.17.0.1
+2022-08-15 15:02:59 [@e915653474f3]
+[login] 3: brunon1 fez login no IP 172.17.0.1
+2022-08-15 15:03:30 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 15:08:34 [@e915653474f3]
+[login] 3: brunochamado fez login no IP 172.17.0.1
+2022-08-15 15:08:58 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 15:16:31 [@e915653474f3]
+[login] 3: brunon1 fez login no IP 172.17.0.1
+2022-08-15 15:16:57 [8@e915653474f3]
+[login] 3: brunochamado fez login no IP 172.17.0.1
+2022-08-15 15:17:13 [@e915653474f3]
+[login] 3: brunon1 fez login no IP 172.17.0.1
+2022-08-15 15:18:49 [@e915653474f3]
+[login] 3: brunochamado fez login no IP 172.17.0.1
+2022-08-15 15:19:27 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 16:47:52 [@e915653474f3]
+[login] 3: usuario fez login no IP 172.17.0.1
+2022-08-15 16:48:50 [@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 16:49:36 [@e915653474f3]
+[login] 3: tec01 fez login no IP 172.17.0.1
+2022-08-15 17:05:38 [@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 17:08:02 [@e915653474f3]
+[login] 3: tec01 fez login no IP 172.17.0.1
+2022-08-15 17:10:44 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:13:19 [@e915653474f3]
+[login] 3: usuario fez login no IP 172.17.0.1
+2022-08-15 17:20:52 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:21:58 [@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 17:23:37 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:26:02 [@e915653474f3]
+[login] 3: usuario fez login no IP 172.17.0.1
+2022-08-15 17:26:52 [@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 17:28:29 [@e915653474f3]
+[login] 3: tec01 fez login no IP 172.17.0.1
+2022-08-15 17:29:36 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:30:53 [@e915653474f3]
+[login] 3: tec01 fez login no IP 172.17.0.1
+2022-08-15 17:31:35 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:33:47 [@e915653474f3]
+[login] 3: tec02 fez login no IP 172.17.0.1
+2022-08-15 17:35:13 [@e915653474f3]
+[login] 3: usuario fez login no IP 172.17.0.1
+2022-08-15 17:35:43 [@e915653474f3]
+[login] 3: tec02 fez login no IP 172.17.0.1
+2022-08-15 17:38:47 [@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 17:39:11 [12@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 17:40:40 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:41:52 [@e915653474f3]
+[login] 3: tec02 fez login no IP 172.17.0.1
+2022-08-15 17:43:10 [@e915653474f3]
+[login] 3: tec01 fez login no IP 172.17.0.1
+2022-08-15 17:43:47 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:45:40 [@e915653474f3]
+[login] 3: tec01 fez login no IP 172.17.0.1
+2022-08-15 17:46:37 [@e915653474f3]
+[login] 3: tec02 fez login no IP 172.17.0.1
+2022-08-15 17:47:38 [@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 17:47:53 [12@e915653474f3]
+[login] 3: usuario fez login no IP 172.17.0.1
+2022-08-15 17:48:29 [@e915653474f3]
+[login] 3: tec01 fez login no IP 172.17.0.1
+2022-08-15 17:49:03 [@e915653474f3]
+[login] 3: userN1 fez login no IP 172.17.0.1
+2022-08-15 17:50:52 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-15 17:52:42 [@e915653474f3]
+[login] 3: sys01 fez login no IP 172.17.0.1
+2022-08-15 17:54:52 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-16 13:33:00 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-18 13:06:05 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-18 17:47:35 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-18 18:39:27 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-18 18:53:12 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-18 19:06:00 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-18 19:12:26 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 13:23:51 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 13:29:29 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 13:30:16 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 13:34:06 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 13:39:22 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 13:40:48 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 13:57:20 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 14:02:18 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 14:05:51 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 14:10:05 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 14:25:42 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 14:47:54 [@e915653474f3]
+[login] 3: usuario2 fez login no IP 172.17.0.1
+2022-08-19 14:49:33 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 15:26:52 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 17:42:09 [@e915653474f3]
+[login] 3: glpi fez login no IP 172.17.0.1
+2022-08-19 18:30:00 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-19 19:42:46 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-19 20:05:00 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 14:01:07 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 14:08:27 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 14:16:12 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 14:37:26 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 14:43:28 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 15:01:45 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 17:10:10 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 18:46:01 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 18:58:06 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-22 19:53:16 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-23 17:34:17 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-23 18:04:40 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-23 18:20:27 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1
+2022-08-23 18:32:42 [@e915653474f3]
+[login] 3: brunomirandabsm fez login no IP 172.17.0.1

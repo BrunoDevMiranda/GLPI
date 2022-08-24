@@ -1,0 +1,748 @@
+2022-08-10 15:26:20 [@e915653474f3]
+Interno #1: Executar contract
+2022-08-10 15:26:27 [@e915653474f3]
+Interno #1: Executar infocom
+2022-08-11 18:15:12 [2@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-11 18:22:29 [2@e915653474f3]
+Interno #1: Executar session
+2022-08-11 18:27:58 [2@e915653474f3]
+Interno #1: Executar graph
+2022-08-11 18:38:26 [2@e915653474f3]
+Interno #1: Executar reservation
+2022-08-11 18:43:52 [2@e915653474f3]
+Interno #1: Executar closeticket
+2022-08-11 18:50:25 [2@e915653474f3]
+Interno #1: Executar alertnotclosed
+2022-08-11 18:56:47 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-11 19:09:45 [2@e915653474f3]
+Interno #1: Executar createinquest
+2022-08-11 19:18:41 [2@e915653474f3]
+Interno #1: Executar watcher
+2022-08-11 19:26:09 [2@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-11 19:48:21 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-12 13:22:33 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-12 13:34:13 [2@e915653474f3]
+Interno #1: Executar queuednotificationclean
+2022-08-12 14:49:01 [2@e915653474f3]
+Interno #1: Executar temp
+2022-08-12 14:54:02 [2@e915653474f3]
+Interno #1: Executar mailgateerror
+2022-08-12 14:59:33 [2@e915653474f3]
+Interno #1: Executar certificate
+2022-08-12 15:01:35 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-12 15:03:34 [@e915653474f3]
+Interno #1: Executar contract
+2022-08-12 15:10:57 [@e915653474f3]
+Interno #1: Executar infocom
+2022-08-12 15:11:15 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-12 15:13:01 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-12 15:18:17 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-12 15:30:13 [2@e915653474f3]
+Interno #1: Executar reservation
+2022-08-12 15:44:09 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-12 15:52:47 [2@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-15 13:33:21 [2@e915653474f3]
+Interno #1: Executar closeticket
+2022-08-15 13:38:45 [2@e915653474f3]
+Interno #1: Executar alertnotclosed
+2022-08-15 13:44:42 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 13:49:45 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 13:54:49 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 13:59:54 [2@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-15 14:02:37 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 14:03:39 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-15 14:06:16 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-15 14:07:22 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-15 14:07:56 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-15 14:09:23 [@e915653474f3]
+Interno #1: Executar session
+2022-08-15 14:14:51 [2@e915653474f3]
+Interno #1: Executar createinquest
+2022-08-15 14:20:43 [2@e915653474f3]
+Interno #1: Executar watcher
+2022-08-15 14:26:35 [2@e915653474f3]
+Interno #1: Executar queuednotificationclean
+2022-08-15 14:31:36 [2@e915653474f3]
+Interno #1: Executar mailgateerror
+2022-08-15 14:37:15 [2@e915653474f3]
+Interno #1: Executar certificate
+2022-08-15 14:41:50 [@e915653474f3]
+Interno #1: Executar contract
+2022-08-15 14:42:04 [@e915653474f3]
+Interno #1: Executar infocom
+2022-08-15 14:42:14 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 14:43:15 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 14:43:29 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 14:44:25 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 14:45:49 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-15 14:48:42 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 14:50:28 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 14:55:39 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 15:01:09 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 15:01:42 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 15:02:48 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-15 15:03:26 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 15:08:18 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 15:08:55 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 15:16:23 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-15 15:18:35 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-15 15:19:24 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 15:30:08 [2@e915653474f3]
+Interno #1: Executar reservation
+2022-08-15 15:35:48 [2@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-15 16:30:23 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 16:42:17 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 16:47:18 [2@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-15 16:47:38 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 16:48:38 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 16:49:25 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-15 17:05:22 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-15 17:07:50 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-15 17:10:40 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 17:13:08 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-15 17:20:47 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:21:46 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 17:23:34 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 17:25:46 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-15 17:26:38 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 17:28:20 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:29:32 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 17:30:41 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 17:31:31 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:33:39 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 17:35:04 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:35:35 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 17:38:35 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-15 17:40:36 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 17:41:41 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:43:02 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 17:43:44 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 17:45:30 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:46:28 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 17:47:28 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:48:21 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-15 17:48:54 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 17:50:47 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 17:52:29 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 17:54:49 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-15 18:00:19 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-15 18:18:04 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-15 19:25:39 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-15 19:55:34 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-15 20:00:55 [2@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-16 13:38:07 [2@e915653474f3]
+Interno #1: Executar graph
+2022-08-16 13:43:15 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-16 14:12:24 [2@e915653474f3]
+Interno #1: Executar reservation
+2022-08-16 17:12:47 [2@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-16 17:37:27 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-16 17:48:35 [2@e915653474f3]
+Interno #1: Executar temp
+2022-08-16 18:32:02 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-16 18:55:04 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-16 19:01:11 [2@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-16 19:12:56 [2@e915653474f3]
+Interno #1: Executar closeticket
+2022-08-16 19:18:11 [2@e915653474f3]
+Interno #1: Executar alertnotclosed
+2022-08-16 19:24:17 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-16 19:31:39 [2@e915653474f3]
+Interno #1: Executar session
+2022-08-18 14:04:36 [2@e915653474f3]
+Interno #1: Executar createinquest
+2022-08-18 14:14:14 [2@e915653474f3]
+Interno #1: Executar watcher
+2022-08-18 14:24:19 [2@e915653474f3]
+Interno #1: Executar queuednotificationclean
+2022-08-18 14:31:41 [2@e915653474f3]
+Interno #1: Executar mailgateerror
+2022-08-18 14:36:49 [2@e915653474f3]
+Interno #1: Executar certificate
+2022-08-18 14:47:44 [2@e915653474f3]
+Interno #1: Executar graph
+2022-08-18 14:52:46 [2@e915653474f3]
+Interno #1: Executar contract
+2022-08-18 15:00:02 [2@e915653474f3]
+Interno #1: Executar infocom
+2022-08-18 15:07:02 [2@e915653474f3]
+Interno #1: Executar reservation
+2022-08-18 15:12:26 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 15:17:57 [2@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-18 15:23:16 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-18 15:28:54 [2@e915653474f3]
+Interno #1: Executar temp
+2022-08-18 15:41:34 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-18 15:46:52 [2@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-18 15:53:52 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-18 16:01:32 [2@e915653474f3]
+Interno #1: Executar closeticket
+2022-08-18 16:09:20 [2@e915653474f3]
+Interno #1: Executar alertnotclosed
+2022-08-18 17:04:41 [2@e915653474f3]
+Interno #1: Executar session
+2022-08-18 17:11:12 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 17:22:13 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-18 17:29:37 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-18 17:34:57 [2@e915653474f3]
+Interno #1: Executar graph
+2022-08-18 17:40:43 [2@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-18 17:46:12 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-18 17:47:31 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-18 17:53:15 [2@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-18 17:58:14 [2@e915653474f3]
+Interno #1: Executar temp
+2022-08-18 18:04:07 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 18:10:11 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-18 18:15:53 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-18 18:16:59 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-18 18:19:37 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-18 18:21:00 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 18:23:10 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-18 18:23:49 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-18 18:25:14 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 18:27:57 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-18 18:28:29 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-18 18:28:59 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 18:29:07 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-18 18:30:25 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-18 18:34:59 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 18:36:57 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-18 18:39:16 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-18 18:39:24 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-18 18:39:55 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 18:40:53 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-18 18:42:53 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-18 18:43:46 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 18:54:35 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-18 19:05:15 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-18 19:06:30 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-18 19:08:24 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-18 19:08:32 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-18 19:09:41 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-18 19:12:54 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-18 19:14:17 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-19 13:15:48 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 13:18:26 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 13:18:44 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 13:19:55 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 13:20:49 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-19 13:29:18 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-19 13:29:44 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-19 13:34:00 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-19 13:39:16 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-19 13:40:26 [@e915653474f3]
+Interno #1: Executar closeticket
+2022-08-19 13:46:38 [2@e915653474f3]
+Interno #1: Executar alertnotclosed
+2022-08-19 13:51:42 [2@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 13:53:09 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 13:53:45 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 13:53:51 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 13:54:31 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-19 13:54:38 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 13:56:16 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 13:58:23 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 13:59:43 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 14:01:22 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 14:01:53 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 14:02:10 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 14:05:44 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 14:08:24 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-19 14:09:22 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 14:15:58 [2@e915653474f3]
+Interno #1: Executar createinquest
+2022-08-19 14:22:22 [2@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 14:25:36 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 14:31:06 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 14:37:19 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 14:42:56 [2@e915653474f3]
+Interno #1: Executar watcher
+2022-08-19 14:47:38 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-19 14:49:30 [@e915653474f3]
+Interno #1: Executar queuednotificationclean
+2022-08-19 14:58:33 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 15:13:48 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 15:26:48 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-19 17:47:13 [2@e915653474f3]
+Interno #1: Executar reservation
+2022-08-19 17:53:18 [2@e915653474f3]
+Interno #1: Executar mailgateerror
+2022-08-19 17:58:29 [2@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-19 18:04:03 [2@e915653474f3]
+Interno #1: Executar certificate
+2022-08-19 18:11:07 [2@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 18:18:20 [2@e915653474f3]
+Interno #1: Executar temp
+2022-08-19 18:23:30 [2@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 18:28:59 [2@e915653474f3]
+Interno #1: Executar contract
+2022-08-19 18:29:56 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-19 18:35:14 [21@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 18:44:53 [21@e915653474f3]
+Interno #1: Executar infocom
+2022-08-19 18:49:53 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 19:03:48 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-19 19:32:20 [@e915653474f3]
+Interno #1: Executar session
+2022-08-19 19:32:36 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 19:32:57 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 19:36:04 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 19:36:34 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-19 19:39:45 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-19 19:40:35 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 19:40:40 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-19 19:41:14 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-19 19:42:22 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 19:42:38 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 19:48:15 [21@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 19:48:24 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 19:49:14 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 19:50:51 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-19 19:51:16 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 19:58:43 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-19 20:03:56 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-19 20:04:14 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-19 20:05:11 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-19 20:11:02 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 13:28:12 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 13:29:18 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-22 13:35:00 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 13:35:57 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 13:36:29 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 13:36:32 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 13:36:42 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-22 13:36:45 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-22 13:36:58 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-22 13:37:15 [@e915653474f3]
+Interno #1: Executar closeticket
+2022-08-22 13:37:30 [@e915653474f3]
+Interno #1: Executar alertnotclosed
+2022-08-22 13:37:36 [@e915653474f3]
+Interno #1: Executar createinquest
+2022-08-22 13:41:35 [@e915653474f3]
+Interno #1: Executar watcher
+2022-08-22 13:44:34 [@e915653474f3]
+Interno #1: Executar queuednotificationclean
+2022-08-22 14:01:00 [@e915653474f3]
+Interno #1: Executar mailgateerror
+2022-08-22 14:02:19 [@e915653474f3]
+Interno #1: Executar certificate
+2022-08-22 14:03:44 [@e915653474f3]
+Interno #1: Executar contract
+2022-08-22 14:06:43 [@e915653474f3]
+Interno #1: Executar infocom
+2022-08-22 14:08:21 [@e915653474f3]
+Interno #1: Executar session
+2022-08-22 14:10:37 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:16:00 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 14:16:32 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 14:17:41 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 14:18:17 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 14:18:41 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:20:10 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:20:32 [@e915653474f3]
+Interno #1: Nada a ser executado
+2022-08-22 14:20:52 [@e915653474f3]
+Interno #1: Nada a ser executado
+2022-08-22 14:21:06 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:21:15 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 14:22:15 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 14:22:48 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:22:58 [@e915653474f3]
+Interno #1: Nada a ser executado
+2022-08-22 14:23:17 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 14:25:06 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:25:21 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 14:26:13 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:26:44 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 14:26:46 [@e915653474f3]
+Interno #1: Nada a ser executado
+2022-08-22 14:27:59 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 14:33:15 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 14:33:52 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 14:39:37 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-22 14:43:56 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 15:08:28 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 17:08:59 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 17:15:15 [21@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 17:15:31 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-22 17:44:40 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-22 17:45:23 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-22 17:46:55 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 17:47:19 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 17:47:55 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 17:48:32 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-22 17:48:49 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 17:54:05 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 17:59:43 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 18:00:58 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 18:08:24 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 18:19:54 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 18:22:28 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 18:23:20 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 18:24:30 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 18:24:38 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 18:26:01 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-22 18:26:04 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 18:27:27 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 18:34:24 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 18:35:46 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 18:37:46 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 18:42:01 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 18:42:55 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 18:43:25 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 18:43:33 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 18:45:20 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 18:45:51 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-22 18:47:35 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 18:48:25 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-22 18:53:41 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 18:55:35 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-22 18:56:27 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 18:59:30 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:01:39 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 19:07:15 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 19:08:20 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 19:08:36 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:11:09 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 19:12:45 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 19:13:12 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:20:51 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 19:21:03 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:23:28 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 19:24:06 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 19:26:12 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 19:26:45 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:27:11 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 19:28:44 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-22 19:29:31 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:33:54 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 19:34:26 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:34:39 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 19:38:39 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 19:46:34 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-22 19:49:32 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 19:50:06 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-22 19:53:12 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-22 19:53:46 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-22 20:03:05 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-22 20:03:46 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-22 20:04:38 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-22 20:05:00 [@e915653474f3]
+Interno #1: Executar graph
+2022-08-23 17:32:31 [@e915653474f3]
+Interno #1: Executar slaticket
+2022-08-23 17:35:07 [@e915653474f3]
+Interno #1: Executar mailgate
+2022-08-23 17:38:45 [@e915653474f3]
+Interno #1: Executar planningrecall
+2022-08-23 17:42:21 [@e915653474f3]
+Interno #1: Executar olaticket
+2022-08-23 17:44:59 [@e915653474f3]
+Interno #1: Executar queuednotification
+2022-08-23 17:45:53 [@e915653474f3]
+Interno #1: Executar reservation
+2022-08-23 18:05:22 [@e915653474f3]
+Interno #1: Executar RecurrentItems
+2022-08-23 18:22:35 [@e915653474f3]
+Interno #1: Executar temp
+2022-08-23 18:39:28 [21@e915653474f3]
+Interno #1: Executar graph
+2022-08-23 19:06:46 [21@e915653474f3]
+Interno #1: Executar closeticket
+2022-08-23 19:13:03 [21@e915653474f3]
+Interno #1: Executar alertnotclosed
+2022-08-23 19:18:34 [21@e915653474f3]
+Interno #1: Executar createinquest
+2022-08-23 19:24:07 [21@e915653474f3]
+Interno #1: Executar watcher
+2022-08-23 19:31:02 [21@e915653474f3]
+Interno #1: Executar queuednotificationclean
+2022-08-23 19:36:17 [21@e915653474f3]
+Interno #1: Executar mailgateerror
+2022-08-23 19:42:06 [21@e915653474f3]
+Interno #1: Executar certificate

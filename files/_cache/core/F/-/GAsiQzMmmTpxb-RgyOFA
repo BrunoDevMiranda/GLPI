@@ -1,0 +1,37 @@
+1660844397
+09fcf87d197a7eef41f502b3ab17dc7a2f1b9dde
+a:1:{s:61:"bn_count_TicketRecurrent_13f79539-61f6-45f7-8dde-045706e652f2";s:1092:"      <style>
+         #bn_232433117 {
+            background-color: #fafafa;
+            color: #949494;
+         }
+
+         #bn_232433117:hover {
+            background-color: #d4d4d4;
+            border: 1px solid #aeaeae;
+         }
+
+         .theme-dark #bn_232433117 {
+            background-color: #949494;
+            color: #fafafa;
+         }
+
+         .theme-dark #bn_232433117:hover {
+            background-color: #d4d4d4;
+            color: #949494;
+            border: 1px solid #aeaeae;
+         }
+      </style>
+      <a href='/front/ticketrecurrent.php?reset=reset'
+         id="bn_232433117"
+         class="card big-number  filter-dates filter-dates_mod"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Chamados recorrentes">Chamados recorrentes</div>
+         <i class="main-icon ti ti-alarm"></i>
+      </a>";}
